@@ -1,2 +1,2 @@
 # software-engineering-practices
-A central collection of backend development projects, data structures, algorithm challenges, and RPA automation scripts in Java, Python, and SQL
+This repository serves as a personal laboratory for practicing core computer science concepts, object-oriented programming (OOP), relational databases, and process automation.
